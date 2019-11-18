@@ -1,4 +1,4 @@
-alert("Hello World")
+alert(woooop!)
 function updateView() {
     alert("Using jQuery")
 }
