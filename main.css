@@ -4,16 +4,19 @@ body {
   font-size: x-large;
     background-color: #b3b3cc;
     color: #363636;
-
+    padding-left: 5%;
+    padding-right: 5%;
   }
 h1 {
   background-color: whitesmoke;
   text-align: center;
   border: 10px solid #363636;
+  padding: 1%;
 }
 h2 {
   background-color: whitesmoke;
   text-align: center;
   border: 10px solid #363636;
   font-size: smaller;
+  padding: 5%;
 }
