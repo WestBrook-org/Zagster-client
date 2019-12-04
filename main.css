@@ -1,9 +1,19 @@
 
 body {
-    font-family: "Cursive", "Comic Sans";
+  font-family: "Lobster", serif;
+  font-size: x-large;
     background-color: #b3b3cc;
-    color: whitesmoke;
+    color: #363636;
+
   }
-h2   {
-    font-size: 23em;
-  }
+h1 {
+  background-color: whitesmoke;
+  text-align: center;
+  border: 10px solid #363636;
+}
+h2 {
+  background-color: whitesmoke;
+  text-align: center;
+  border: 10px solid #363636;
+  font-size: smaller;
+}
