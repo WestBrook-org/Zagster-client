@@ -13,10 +13,13 @@ h1 {
   border: 10px solid #363636;
   padding: 1%;
 }
-h2 {
+#myChart {
+  padding-bottom: 3%;
+}
+#about {
   background-color: whitesmoke;
   text-align: center;
   border: 10px solid #363636;
   font-size: smaller;
-  padding: 5%;
+  padding: 3%;
 }
